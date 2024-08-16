@@ -9,6 +9,3 @@ Export Options: Save QR codes as PNG, SVG, or other image formats.
 User-Friendly Interface: Simple, intuitive design for seamless QR code creation.
 Open Source: Fully open-source project, with contributions welcomed from the community.
 
-How to Use
-Clone the repository
- git clone https://github.com/yourusername/qr-code-generator.git
